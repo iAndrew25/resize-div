@@ -1,1 +1,1 @@
-# resize-div
+# Resize div
